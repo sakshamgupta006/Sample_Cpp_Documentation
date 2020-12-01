@@ -1,0 +1,7 @@
+name: Mission-Control-Docs
+
+channels:
+  - Mission-Control
+
+dependencies:
+  - breathe
